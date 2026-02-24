@@ -1,44 +1,8 @@
-# Core Data Processing
-pandas==2.0.3  # Data manipulation and analysis
-numpy==1.24.3  # Numerical computing and array operations
-
-# Visualization
-matplotlib==3.7.2  # Static plotting library for basic charts
-seaborn==0.12.2  # Statistical data visualization built on matplotlib
-plotly==5.16.1  # Interactive web-based visualization library
-
-# Machine Learning & Preprocessing
-scikit-learn==1.3.0  # ML algorithms, preprocessing, model evaluation
-xgboost==2.0.0  # Gradient boosting framework for decision trees
-lightgbm==4.0.0  # Fast gradient boosting for large datasets
-catboost==1.2.0  # Gradient boosting with categorical feature support
-
-# Statistical Testing & Time Series
-scipy==1.11.2  # Scientific computing and statistical functions
-statsmodels==0.14.0  # Statistical modeling and hypothesis testing for time series
-
-# Model Explainability
-shap==0.43.0  # SHAP values for feature importance and model interpretation
-lime==0.2.0  # Local interpretable model-agnostic explanations
-
-# Model Serialization & Utilities
-joblib==1.3.1  # Efficient serialization for saving/loading ML models
-pickle-mixin==1.0.0  # Enhanced pickle functionality
-
-# Jupyter & Interactive Computing
-jupyter==1.0.0  # Jupyter notebook environment
-ipython==8.14.0  # Interactive Python shell with enhanced features
-ipywidgets==8.0.7  # Interactive widgets for Jupyter notebooks
-
-# Missing Data Visualization
-missingno==0.5.2  # Visualizing missing data patterns and matrices
-
-# Technical Analysis for Finance
-ta==0.10.2  # Technical indicators for financial time series analysis
-
-# Hyperparameter Optimization  
-optuna==3.4.0  # Automated hyperparameter tuning for ML models
-
-# Data Validation & Handling
-openpyxl==3.1.2  # Reading/writing Excel files
-python-dotenv==1.0.0  # Loading environment variables from .env files
+pandas          # data loading and manipulation
+numpy           # numerical operations
+matplotlib      # charts and plots
+seaborn         # statistical visualizations
+scikit-learn    # ML models and evaluation
+scipy           # statistical functions
+jupyter         # notebook environment
+ipython         # interactive python
