@@ -470,7 +470,6 @@ This project is developed for **educational and internship purposes**. All code 
 
 Built with ❤️ for learning and innovation
 
-**Questions?** Open an issue on GitHub or contact the author
 
 <br/>
 
