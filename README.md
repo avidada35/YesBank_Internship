@@ -464,9 +464,6 @@ This project is developed for **educational and internship purposes**. All code 
 
 <div align="center">
 
-## Project Status
-
-**ANALYSIS COMPLETE** | **MODELS TRAINED** | **EVALUATION DONE** | **READY FOR DEPLOYMENT**
 
 Built with ❤️ for learning and innovation
 
